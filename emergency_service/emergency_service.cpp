@@ -1,8 +1,5 @@
-﻿// Elif Esin 1306240097
-
-#include <iostream>
+﻿#include <iostream>
 #include <string>
-#include <clocale>
 using namespace std;
 
 // Struct that holds patient information
