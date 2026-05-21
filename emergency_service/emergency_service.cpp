@@ -77,7 +77,7 @@ int triagePriority(string triage) {
     else if (triage == "YELLOW") 
         return 2;
     else
-    return 1; // GREEN
+    return 1; 
 }
 
 // Compare the priorities between patients according to their triage levels, ages, genders and orders
