@@ -93,7 +93,7 @@ bool comparePatients(Patient* p1, Patient* p2) {
     return p1->order < p2->order;
 }
 
-// Lists the requested patient information
+// Lists the requested patient's information
 void servePatient() {
     if (head == nullptr) {
         cout << "No patients to display!" <<endl;
